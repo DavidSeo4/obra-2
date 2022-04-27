@@ -202,8 +202,8 @@ echo $buffer;
 
             <div class="col-md-4">
               <div class="my-4">
-                <a href="index.php" class="btn btn-default">VOLVER</a>
-                <button type="submit" class="btn btn-primary">GARDAR</button>
+                <a href="index.php" class="btn btn-primary text-success">VOLVER</a>
+                <button type="submit" class="btn btn-secondary">GARDAR</button>
               </div>
             </div>
           </form>
@@ -225,8 +225,8 @@ echo $buffer;
           <!-- BOTON MODAL-ÁBRESE AO PULSAR NOVO SEGUIMENTO -->
 
           <div class="my-4">
-            <a href="index.php" class="btn btn-default">VOLVER</a>
-            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@mdo">Novo Seguimento</button>
+            <a href="index.php" class="btn btn-primary text-success">VOLVER</a>
+            <button type="button" class="btn btn-secondary" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-whatever="@mdo">Novo Seguimento</button>
           </div>
 
 
@@ -298,8 +298,8 @@ echo $buffer;
         <div class="container mt-4">
           <p>Non se encontraron Ofertas de Formación</p>
           <div class="my-4">
-            <a href="index.php" class="btn btn-default">VOLVER</a>
-            <button type="submit" class="btn btn-primary">Crear Oferta</button>
+            <a href="index.php" class="btn btn-primary text-success">VOLVER</a>
+            <button type="submit" class="btn btn-secondary">Crear Oferta</button>
           </div>
         </div>
       </div>
@@ -311,8 +311,8 @@ echo $buffer;
 
           <p>Non se encontraron Ofertas de Contratación</p>
           <div class="my-4">
-            <a href="index.php" class="btn btn-default">VOLVER</a>
-            <button type="submit" class="btn btn-primary">Crear Oferta</button>
+            <a href="index.php" class="btn btn-primary text-success">VOLVER</a>
+            <button type="submit" class="btn btn-secondary">Crear Oferta</button>
           </div>
         </div>
 

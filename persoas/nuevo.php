@@ -126,8 +126,8 @@ echo $buffer;
         </div>
         <div class="col-md-4">
           <div class="my-4">
-            <a href="index.php" class="btn btn-default">VOLVER</a>
-            <button type="submit" class="btn btn-primary">GARDAR</button>
+            <a href="index.php" class="btn btn-primary text-success">VOLVER</a>
+            <button type="submit" class="btn btn-secondary">GARDAR</button>
           </div>
         </div>
       </div>
@@ -262,8 +262,8 @@ echo $buffer;
       </div>
       <div class="col-md-4">
         <div class="my-4">
-          <a href="index.php" class="btn btn-default">VOLVER</a>
-          <button type="submit" class="btn btn-primary">GARDAR</button>
+        <a href="index.php" class="btn btn-primary text-success">VOLVER</a>
+            <button type="submit" class="btn btn-secondary">GARDAR</button>
         </div>
       </div>
       </form>
@@ -274,8 +274,8 @@ echo $buffer;
     <div class="tab-pane fade py-3 px-4" id="experiencia" role="tabpanel" aria-labelledby="experiencia-tab">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, debitis rerum quod eligendi minima impedit provident magnam distinctio omnis. Ullam ducimus nobis architecto dolorum officiis cupiditate veniam nihil molestiae iusto.
     <div class="col-md-4">
           <div class="my-4">
-            <a href="index.php" class="btn btn-default">VOLVER</a>
-            <button type="submit" class="btn btn-primary">GARDAR</button>
+          <a href="index.php" class="btn btn-primary text-success">VOLVER</a>
+            <button type="submit" class="btn btn-secondary">GARDAR</button>
           </div>
         </div>
 
@@ -300,8 +300,8 @@ echo $buffer;
 
       <div class="col-md-4">
           <div class="my-4">
-            <a href="index.php" class="btn btn-default">VOLVER</a>
-            <button type="submit" class="btn btn-primary">GARDAR</button>
+          <a href="index.php" class="btn btn-primary text-success">VOLVER</a>
+            <button type="submit" class="btn btn-secondary">GARDAR</button>
           </div>
         </div>
 

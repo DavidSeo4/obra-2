@@ -53,7 +53,7 @@ include_once '../inc/header-out.php';?>
                     <input type="checkbox" value="remember-me"> Recórdame
                 </label>
             </div>
-            <button class="w-100 btn btn-lg btn-primary text-success" type="submit">Iniciar</button>
+            <button class="w-100 btn btn-lg btn-secondary" type="submit">Iniciar</button>
 
         </form>
     </div>
