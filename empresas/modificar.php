@@ -277,8 +277,8 @@ $row = $resultado->fetch_array(MYSQLI_ASSOC);
                   </form>
                 </div>
                 <div class="modal-footer">
-                  <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Pechar</button>
-                  <button type="button" class="btn btn-primary">Gardar</button>
+                <button type="button" class="btn btn-primary text-success" data-bs-dismiss="modal">Pechar</button>
+        <button type="button" class="btn btn-secondary">Gardar</button>
                 </div>
               </div>
             </div>
